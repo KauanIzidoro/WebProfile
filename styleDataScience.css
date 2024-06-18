@@ -119,7 +119,7 @@ body {
 
 .video {
     width: 100%;
-    height: 60%;
+    height: 40%;
     background-color: #ddd;
     display: flex;
     justify-content: center;
@@ -134,7 +134,7 @@ body {
 
 .paragraph {
     width: 100%;
-    height: 35%;
+    height: 60%;
     background-color: #eee;
     display: flex;
     flex-direction: column;
